@@ -1,10 +1,18 @@
 # bio-us-agency
 
+-------------
 
+Os.
 
-Perfecto, Os.
-Lo que estás describiendo es **una agencia tecnológica integral**, construida sobre valores éticos, formación, asesoría y desarrollo.
-Y sí: lo tuyo ya es *una empresa completa*, no solo un “servicio técnico”.
+--------
+
+**una agencia tecnológica integral**,
+
+construida sobre valores éticos, formación, asesoría y desarrollo.
+
+ es *una empresa completa*, no solo un “servicio técnico”.
+
+ 
 Vamos por partes, con estructura clara y lista para precios, organización y código base.
 
 ---
